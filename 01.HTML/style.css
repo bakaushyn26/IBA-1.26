@@ -1,0 +1,16 @@
+/* Общий стиль.*/
+body { font-family: Arial, sans-serif; font-size: 16px; margin: 15px; background: white; color: black; }
+h1,h2,h3 { text-align:center; }
+a { color:#0000cc; }
+table { border-collapse:collapse; }
+.main-table { width:100%; border:1px solid #555; }
+.main-table td { border:1px solid #555; vertical-align:top; }
+.menu { width:290px; background:#f2f2f2; padding:10px; }
+.menu ul { margin-top:5px; margin-bottom:12px; padding-left:22px; }
+.menu li { margin-bottom:5px; }
+.work { width:100%; height:760px; border:0; background:white; }
+.student { width:100%; margin-bottom:10px; }
+.student th,.student td { border:1px solid black; padding:6px; text-align:center; }
+.simple { border:1px solid black; }
+.simple td,.simple th { border:1px solid black; padding:5px; }
+.note { border:1px solid #999; background:#f6f6f6; padding:8px; }
